@@ -20,6 +20,8 @@ A production-ready full-stack EdTech platform that delivers a **daily study road
 
 ## 🏗️ Architecture Overview
 
+![EdTech Architecture](./architecture.png)
+
 ### Frontend (React + Vite)
 - **Pages**: Landing, Signup, Login, Dashboard
 - **Services**: Auth service, API client, Payment integration
