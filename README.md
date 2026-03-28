@@ -153,7 +153,7 @@ SSC-MOCK-PLATFORM/
 
 ## 🔐Login & Signup with Jwt
 
-![EdTech Architecture](./Landing.png)
+![EdTech Architecture](./Login.png)
 
 
 
