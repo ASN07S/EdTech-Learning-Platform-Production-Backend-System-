@@ -134,6 +134,11 @@ SSC-MOCK-PLATFORM/
 
 ---
 
+## 🛬 Landing page
+
+![EdTech Architecture](./Landing.png)
+
+
 ## 🔐 Authentication Flow
 
 1. User registers/logs in via `/api/auth/signup` or `/api/auth/login`
