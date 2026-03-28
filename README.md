@@ -151,6 +151,12 @@ SSC-MOCK-PLATFORM/
 4. Protected routes validate token before rendering
 5. Automatic redirect to dashboard on successful login
 
+## 🔐Login & Signup with Jwt
+
+![EdTech Architecture](./Landing.png)
+
+
+
 ---
 
 ## 📅 Daily Task Flow
@@ -168,6 +174,9 @@ SSC-MOCK-PLATFORM/
 3. User clicks "Mark Complete" → `POST /api/tests/complete`
 4. Backend updates progress in database
 5. Dashboard refreshes with updated progress
+
+## Dashboard
+![EdTech Architecture](./Dashboard.png)
 
 ---
 
@@ -197,6 +206,17 @@ SSC-MOCK-PLATFORM/
 - Backend verifies webhook signature
 - Updates payment status even if user closes browser
 - Handles refunds, failed payments automatically
+
+## ![XpaymentXcashGIF](https://github.com/user-attachments/assets/55befba7-c060-4bbc-9ca1-d0b07a5698bf)
+
+![EdTech Architecture](./Paymentgateway.png)
+
+
+
+## Test series & Practice 
+![EdTech Architecture](./Practice.png)
+![EdTech Architecture](./Test series.png)
+
 
 ---
 
