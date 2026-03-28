@@ -137,6 +137,10 @@ SSC-MOCK-PLATFORM/
 ## 🛬 Landing page
 
 ![EdTech Architecture](./Landing.png)
+![EdTech Architecture](./Landing2.png)
+![EdTech Architecture](./Landing3.png)
+
+
 
 
 ## 🔐 Authentication Flow
